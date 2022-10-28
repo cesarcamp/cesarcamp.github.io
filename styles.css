@@ -1,10 +1,10 @@
 .card{
-  width: 280px;
+  width: 260px;
   height: 480px;
   border: 1px solid transparent;
   background: linear-gradient(140deg, hsl(310, 76%, 56%), hsl(320, 76%, 58%)-20%,hsl(277, 97%, 29%,86%)30%,hsl(193, 80%, 51%),hsl(181, 99%, 46%)140%);
-  margin:0;
   color: white;
+  margin-left:10px;
 }
 
 .title{
@@ -79,3 +79,8 @@
   border: 50px solid hsl(181, 100%, 100%, 30%)
 }
 
+.originalimg{
+  width: 280px;
+  height: 480px;
+  display:inline-block;
+}
