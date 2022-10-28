@@ -1,0 +1,81 @@
+.card{
+  width: 280px;
+  height: 480px;
+  border: 1px solid transparent;
+  background: linear-gradient(140deg, hsl(310, 76%, 56%), hsl(320, 76%, 58%)-20%,hsl(277, 97%, 29%,86%)30%,hsl(193, 80%, 51%),hsl(181, 99%, 46%)140%);
+  margin:0;
+  color: white;
+}
+
+.title{
+  padding-left: 36px;
+  padding-top: 22px;
+  font-family: sans-serif;
+  font-weight: 550;
+  font-size: 16px;
+  margin: 0;
+}
+
+.maintext{
+  padding-left: 32px;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 68px;
+  margin:0;
+}
+
+.maintext2{
+  padding-left: 90px;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 68px;
+  margin:-8%;
+}
+
+.maintext3{
+  padding-left: 32px;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 68px;
+  margin:0;
+  padding-top:14px;
+}
+
+.description{
+  padding-left: 36px;
+  padding-right: 32px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 10px;
+  margin:0;
+  padding-top:8px;
+}
+
+.weblink{
+   padding-left: 36px;
+  padding-right: 32px;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  margin:0;
+  padding-top:28px;
+}
+
+.circlecss{
+  height: 50px;
+  width: 50px;
+  background-color: hsl(181, 100%, 100%, 30%);
+  border-radius: 50%;
+  margin-left: 250px;
+  padding: 12px
+}
+
+.donutcss{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  padding: 20px;
+  margin:-70px;
+  border: 50px solid hsl(181, 100%, 100%, 30%)
+}
+
